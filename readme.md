@@ -19,3 +19,5 @@ This app calls just through writing auto-py-to-exe
 into the terminal
 If you want, you also can choose the romantic icon for
 your program.
+
+Before running this program save all open files)
