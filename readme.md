@@ -3,7 +3,7 @@
 This app offers your partner to hang out tonight.
 In case of agreement they get just nice answer.
 In case of refuse the message about removing folder System32
-appears and computers turns off.
+appears and computer turns off.
 
 For making romantic atmosphere you also can add the music.
 It requires installing the pygame library.
