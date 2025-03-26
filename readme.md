@@ -17,6 +17,7 @@ pip install auto-py-to-exe
 
 This app calls just through writing auto-py-to-exe
 into the terminal
+
 If you want, you also can choose the romantic icon for
 your program.
 
