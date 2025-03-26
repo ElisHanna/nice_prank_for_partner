@@ -11,7 +11,7 @@ It requires installing the pygame library.
 The most convenient way to convert it to .exe is using
 of program auto-py-to-exe
 
-####pip install auto-py-to-exe
+pip install auto-py-to-exe
 
 This app calls just through writing auto-py-to-exe
 into the terminal
