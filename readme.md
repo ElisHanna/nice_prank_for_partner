@@ -7,6 +7,8 @@ appears and computer turns off.
 
 For making romantic atmosphere you also can add the music.
 It requires installing the pygame library.
+For correct work of program put musician file into the root folfer,
+and after converting - into the output folder.
 
 The most convenient way to convert it to .exe is using
 of program auto-py-to-exe
